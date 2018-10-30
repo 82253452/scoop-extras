@@ -2,6 +2,5 @@
     "homepage": "https://github.com/atom/xray/",
     "version": "0.4.0",
     "url": "https://github.com/atom/xray/archive/v0.4.0.zip",
-    "hash": "md5:ded43ac52556d3aca902fb39274e0e57",
     "extract_dir": "xray-0.4.0"
 }
